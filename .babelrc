@@ -1,7 +1,7 @@
 {
   "presets": ["react"],
   "ignore": ["third_party"],
-  "plugins": [
+  "plugins": [ 
     "transform-class-properties",
     "syntax-trailing-function-commas",
     ["transform-object-rest-spread", { "useBuiltIns": true }],
